@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" role="img" aria-labelledby="title">
+  <title id="title">Símbolo de Agencia de Empleos Al Instante</title>
+  <g fill="#08090a">
+    <path fill-rule="evenodd" d="M210 16 370 322h-64l-96-194-96 194H50L210 16Zm0 124-69 139h138l-69-139Z"/>
+    <path d="M25 202c65-34 120-29 176 4 59 35 103 99 194 78-50 37-105 18-157-15-74-47-121-84-213-54Z"/>
+    <path d="M38 222c76-29 125 2 181 39 50 33 101 56 163 35-51 35-112 23-169-12-62-39-108-67-175-48Z"/>
+  </g>
+  <path d="M32 218c70-31 119-9 177 27 57 36 104 75 177 53" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+</svg>
